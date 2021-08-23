@@ -1,0 +1,43 @@
+# HTML
+
+<html>
+	<head>
+		<title>Aula 23/08</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<h1>Programador WEB</h1>
+		<p> (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da Web. </p>
+		<font color=red size=10 face="arial">Formatação</font>
+		<hr>
+		<h2>Listas em HTML</h2>
+			<h4> ORDENADAS </h4>
+			<ol type="a">
+				<li> Java </li>
+				<li> C </li>
+				<li> PHP </li>
+				<li> PYTHON </li>
+			</ol>
+			<h4> NÃO ORDENADAS </h4>
+			<ul type="square">
+				<li> Kaio </li>
+				<li> Gabriel </li>
+				<li> Júlia </li>
+				<li> Miguel </li>
+			</ul>
+			<hr>
+			<center> <font color=red size=6 > EXEMPLO DE UMA LISTA TIPO
+			<br> GLÓSSÁRIO </font> </center>
+			<ol>
+				<li> Não diga o que fazer, mas sim como fazer</li>
+				<li> Faça tudo com boa vontade </li>
+				<li> Quando quiser ouvir respostas agradáveis, comece você dizendo coisas agradáveis </li>
+			</ol>
+			<center> <font color=green size=6 face=arial> EXEMPLO <br> DE UMA LISTA DESORDENADA</font> </center>
+			<ul> 
+				<li> Acredite em você </li>
+				<li> Pare de reclamar </li>
+				<li> Aja e faça corretamente </li>
+			</ul>
+	</body>
+</html>
